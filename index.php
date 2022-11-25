@@ -1,9 +1,9 @@
 <?php
 
 $class=[
- 'jvhdczh',
- 'sjhvdc',
- 'thsdcfgc',
+ 'akerke',
+ 'alina',
+ 'sevara',
  6354,
  94038
 ];
