@@ -3,5 +3,7 @@
 $class=[
  'jvhdczh',
  'sjhvdc',
- 'thsdcfgc'
+ 'thsdcfgc',
+ 6354,
+ 94038
 ];
